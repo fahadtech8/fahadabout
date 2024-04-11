@@ -1,4 +1,4 @@
-google-site-verification: googlec002265f9dbd0e27.html
+
 
 $(document).ready(function () {
 
