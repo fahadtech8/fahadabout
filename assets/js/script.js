@@ -59,11 +59,11 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "FaHaD About";
+            document.title = "FAHAD";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
-            document.title = "Come Back To FaHaD About";
+            document.title = "FAHAD";
             $("#favicon").attr("href", "assets/images/favhand.png");
         }
     });
