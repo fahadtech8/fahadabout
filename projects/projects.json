@@ -45,58 +45,58 @@
     "image": "WhatsApp",
     "category": "mern",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "view": "https://fahadwhatsapp.blogspot.com/",
+      "code": "https://fahadwhatsapp.blogspot.com/"
     }
   },
   {
-    "name": "Flipkart MERN",
+    "name": "FD Instagram",
     "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
-    "image": "flipkartmern",
+    "image": "Instagram",
     "category": "mern",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      "view": "https://fahadwhatsapp.blogspot.com/",
+      "code": "https://fahadwhatsapp.blogspot.com/"
     }
   },
   {
-    "name": "ResumeGen",
+    "name": "FD Snapchat",
     "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
+    "image": "Snapchat.png",
     "category": "mern",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "view": "https://fahadwhatsapp.blogspot.com/",
+      "code": "https://fahadwhatsapp.blogspot.com/"
     }
   },
   {
-    "name": "React-Projects",
+    "name": "FD YouTube",
     "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "reactprojects",
+    "image": "YouTube",
     "category": "mern",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+      "view": "https://fahadwhatsapp.blogspot.com/",
+      "code": "https://fahadwhatsapp.blogspot.com/"
     }
   },
   {
-    "name": "Flipkart PHP",
+    "name": "Trucaller Gold",
     "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
-    "image": "flipkartphp",
+    "image": "Trucaller",
     "category": "lamp",
     "links": {
-      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
-      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+      "view": "https://fahadwhatsapp.blogspot.com/",
+      "code": "https://fahadwhatsapp.blogspot.com/"
     }
   },
   {
-    "name": "JavaScript Projects Website",
+    "name": "MX Player Pro",
     "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
-    "image": "jspro",
+    "image": "mxplayer",
     "category": "basicweb",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+      "view": "https://fahadwhatsapp.blogspot.com/",
+      "code": "https://fahadwhatsapp.blogspot.com/"
     }
   },
   {
