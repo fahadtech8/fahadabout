@@ -62,7 +62,7 @@
   {
     "name": "FD Snapchat",
     "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "Snapchat.png",
+    "image": "Snapchat",
     "category": "mern",
     "links": {
       "view": "https://fahadwhatsapp.blogspot.com/",
@@ -80,9 +80,9 @@
     }
   },
   {
-    "name": "Trucaller Gold",
+    "name": "Trueller Gold",
     "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
-    "image": "Trucaller",
+    "image": "Truecaller",
     "category": "lamp",
     "links": {
       "view": "https://fahadwhatsapp.blogspot.com/",
